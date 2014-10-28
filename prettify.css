@@ -2,7 +2,7 @@ pre.prettyprint {
   margin-left: 5px; padding-left: 18px; border-left: 3px solid #6CE26C;
   font-family: Monaco, 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Lucida Console', monospace !important;
   overflow: auto;
-  /*white-space: pre-wrap;*/
+  /*white-space: pre-wrap;*//*开启此行会将长行自动换行，不过行号还是维持原行号不变*/
 }
 /*font-family: Monaco, 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Lucida Console', monospace !important;*/
 /*font-family: Consolas, 'Bitstream Vera Sans Mono', 'Courier New', Courier, monospace !important;*/
